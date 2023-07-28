@@ -1,4 +1,4 @@
-// UserData.js
+
 const userData = [
     { email_id: "sample@gmail.com", password: "1234" },
     { email_id: "sample1@gmail.com", password: "9876" },
